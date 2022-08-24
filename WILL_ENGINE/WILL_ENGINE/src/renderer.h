@@ -1,9 +1,12 @@
 #ifndef RENDERER_H
 #define RENDERER_H
 
-class Renderer
+namespace WILL_ENGINE
 {
+	class Renderer
+	{
 
-};
+	};
+}
 
 #endif

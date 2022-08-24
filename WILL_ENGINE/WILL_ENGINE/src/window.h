@@ -1,9 +1,12 @@
 #ifndef WINDOW_H
 #define WINDOW_H
 
-class Window
+namespace WILL_ENGINE
 {
+	class Window
+	{
 
-};
+	};
+}
 
 #endif
